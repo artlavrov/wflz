@@ -3,6 +3,7 @@ wflz
 
 Compress / Decompress code for files with signature WFLZ
 
+
 All source is licensed under the WTFPL (sam.zoy.org/wtfpl/).
 
 Random Notes:
